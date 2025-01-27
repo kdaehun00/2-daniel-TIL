@@ -7,3 +7,6 @@ Today I Learn
 
 ### [1월] : JAVA, GIT
 25.01.27 JDK, JRE, JVM, GC, Git ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+=======
+25.01.27 JDK, JRE, JVM, GC, Git ([상세 내역 링크](https://github.com/kdaehun00/daniel-til/blob/main/Jan/2025-01-27.md))
+
