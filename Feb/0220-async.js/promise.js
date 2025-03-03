@@ -37,6 +37,7 @@ myclass.usertrue(id, pw)
 .then(myclass.getRoles)
 .then(user => console.log(user.id))
 .catch(console.log("error 444"));
+
 // 이러면 콜백 지옥이다!
 /*
 myclass.usertrue(id, pw,
